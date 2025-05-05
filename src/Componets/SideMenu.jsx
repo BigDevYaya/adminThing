@@ -12,7 +12,7 @@ const SideMenu = () => {
   const [clickedIndex, setClickedIndex] = useState(null);
 
   return (
-    <div className="fixed right-5 bg-[#fbf4df] rounded-sm">
+    <div className=" bg-[#fbfcff] rounded-sm lg:hidden">
       <ul className="flex flex-col gap-2 items-center justify-center overflow-x-auto pb-2">
         {activity.map((act, i) => (
           <li
