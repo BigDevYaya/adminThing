@@ -1,8 +1,17 @@
 import React from 'react'
+import { Search } from 'lucide-react';
+import { useState } from 'react';
 
-const Header = () => {
+const activity = [
+    'Reputation',
+    'New Users',
+    'Voters',
+    'Editors',
+    'Moderators'
+]
+
+const Header = ({value, onChange}) => {
     const [clickedIndex, setClickedIndex] = useState(null);
-    const [search, setSearch] = useState("Hi");
   return (
     <header className='mx-28 my-10'>
     <h1 className='font-semibold text-3xl mb-3'>Users</h1>
@@ -13,8 +22,8 @@ const Header = () => {
             type="search"
             placeholder="Search here"
             className="flex-1 outline-none bg-transparent text-black placeholder-gray-400"
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
+            value={value}
+            onChange={onChange}
         />
         </div>
         <ul className='flex gap-4 items-center justify-center-safe'>
