@@ -21,7 +21,7 @@ const Dashboard = () => {
   return (
     <div>
         <Header value={search} onChange={(e) => setSearch(e.target.value)} />
-        <main className='mx-28 my-10'>
+        <main className='xl:mx-28 xl:my-10 mx-3 my-2'>
             <ProfileCard profiles={result} />
         </main>
     </div>
