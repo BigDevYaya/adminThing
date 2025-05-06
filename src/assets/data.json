@@ -4,468 +4,790 @@
         "ProfilePic": "unsplash_images/alexander-krivitskiy-VfjbH7PlWRk-unsplash.jpg",
         "FullName": "Liam Smith",
         "location": "Toronto, Canada",
-        "hobbies": ["Skiing", "Video Games", "Stealing", "Reading"]
+        "hobbies": [
+            "Skiing",
+            "Video Games",
+            "Stealing",
+            "Reading"
+        ],
+        "bio": "Liam Smith Loves skiing and video games and stealing, and reading."
     },
     {
         "id": 2,
         "ProfilePic": "unsplash_images/anthony-tran-3B6RfJQKBEM-unsplash.jpg",
         "FullName": "Aisha Bello",
         "location": "Abuja, Nigeria",
-        "hobbies": ["Cooking", "Dancing"]
+        "hobbies": [
+            "Cooking",
+            "Dancing"
+        ],
+        "bio": "Aisha Bello Loves cooking, and dancing."
     },
     {
         "id": 3,
         "ProfilePic": "unsplash_images/dmitry-ganin-JRa8lCQQhSs-unsplash.jpg",
         "FullName": "Mateo Fernandez",
         "location": "Buenos Aires, Argentina",
-        "hobbies": ["Soccer", "Guitar"]
+        "hobbies": [
+            "Soccer",
+            "Guitar"
+        ],
+        "bio": "Mateo Fernandez Loves soccer, and guitar."
     },
     {
         "id": 4,
         "ProfilePic": "unsplash_images/freestocks-RQ2dvd2FUV4-unsplash.jpg",
         "FullName": "Sakura Tanaka",
         "location": "Kyoto, Japan",
-        "hobbies": ["Origami", "Reading manga"]
+        "hobbies": [
+            "Origami",
+            "Reading manga"
+        ],
+        "bio": "Sakura Tanaka Loves origami, and reading manga."
     },
     {
         "id": 5,
         "ProfilePic": "unsplash_images/gift-habeshaw-0nNOc6OAwLI-unsplash.jpg",
         "FullName": "Zanele Khumalo",
         "location": "Cape Town, South Africa",
-        "hobbies": ["Hiking", "Photography"]
+        "hobbies": [
+            "Hiking",
+            "Photography"
+        ],
+        "bio": "Zanele Khumalo Loves hiking, and photography."
     },
     {
         "id": 6,
         "ProfilePic": "unsplash_images/gift-habeshaw-w1XuHvzcWoI-unsplash.jpg",
         "FullName": "Noah Johnson",
         "location": "New York, USA",
-        "hobbies": ["Basketball", "Blogging"]
+        "hobbies": [
+            "Basketball",
+            "Blogging"
+        ],
+        "bio": "Noah Johnson Loves basketball, and blogging."
     },
     {
         "id": 7,
         "ProfilePic": "unsplash_images/laurence-cruz-P7yvmajPvkM-unsplash.jpg",
         "FullName": "Chloe Dubois",
         "location": "Paris, France",
-        "hobbies": ["Baking", "Painting"]
+        "hobbies": [
+            "Baking",
+            "Painting"
+        ],
+        "bio": "Chloe Dubois Loves baking, and painting."
     },
     {
         "id": 8,
         "ProfilePic": "unsplash_images/markus-spiske-Skf7HxARcoc-unsplash.jpg",
         "FullName": "Ravi Kumar",
         "location": "Mumbai, India",
-        "hobbies": ["Cricket", "Coding", "Sleeping"]
+        "hobbies": [
+            "Cricket",
+            "Coding",
+            "Sleeping"
+        ],
+        "bio": "Ravi Kumar Loves cricket and coding, and sleeping."
     },
     {
         "id": 9,
         "ProfilePic": "unsplash_images/mike-santos-50zPBYowVAE-unsplash.jpg",
         "FullName": "Sofia Rossi",
         "location": "Rome, Italy",
-        "hobbies": ["Singing", "Cycling", "Football"]
+        "hobbies": [
+            "Singing",
+            "Cycling",
+            "Football"
+        ],
+        "bio": "Sofia Rossi Loves singing and cycling, and football."
     },
     {
         "id": 10,
         "ProfilePic": "unsplash_images/mike-santos-50zPBYowVAE-unsplash.jpg",
         "FullName": "Ethan Brown",
         "location": "Auckland, New Zealand",
-        "hobbies": ["Surfing", "Reading"]
+        "hobbies": [
+            "Surfing",
+            "Reading"
+        ],
+        "bio": "Ethan Brown Loves surfing, and reading."
     },
     {
         "id": 11,
         "ProfilePic": "unsplash_images/samuel-dixon--fQ5XNOcqFQ-unsplash.jpg",
-        "FullName": "Lina Müller",
+        "FullName": "Lina M\u00fcller",
         "location": "Berlin, Germany",
-        "hobbies": ["Photography", "Yoga"]
+        "hobbies": [
+            "Photography",
+            "Yoga"
+        ],
+        "bio": "Lina M\u00fcller Loves photography, and yoga."
     },
     {
         "id": 12,
         "ProfilePic": "unsplash_images/taylor-wright-g0pb9aXpbgQ-unsplash.jpg",
         "FullName": "Ahmed Al-Farsi",
         "location": "Dubai, UAE",
-        "hobbies": ["Driving", "Chess"]
+        "hobbies": [
+            "Driving",
+            "Chess"
+        ],
+        "bio": "Ahmed Al-Farsi Loves driving, and chess."
     },
     {
         "id": 13,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Yuki Nakamura",
         "location": "Osaka, Japan",
-        "hobbies": ["Gaming", "Calligraphy"]
+        "hobbies": [
+            "Gaming",
+            "Calligraphy"
+        ],
+        "bio": "Yuki Nakamura Loves gaming, and calligraphy."
     },
     {
         "id": 14,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Anna Kowalska",
         "location": "Warsaw, Poland",
-        "hobbies": ["Gardening", "Knitting"]
+        "hobbies": [
+            "Gardening",
+            "Knitting"
+        ],
+        "bio": "Anna Kowalska Loves gardening, and knitting."
     },
     {
         "id": 15,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Pedro Silva",
         "location": "Lisbon, Portugal",
-        "hobbies": ["Fishing", "Biking"]
+        "hobbies": [
+            "Fishing",
+            "Biking"
+        ],
+        "bio": "Pedro Silva Loves fishing, and biking."
     },
     {
         "id": 16,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Maya Singh",
         "location": "Delhi, India",
-        "hobbies": ["Cooking", "Dancing"]
+        "hobbies": [
+            "Cooking",
+            "Dancing"
+        ],
+        "bio": "Maya Singh Loves cooking, and dancing."
     },
     {
         "id": 17,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Carlos Mendez",
         "location": "Mexico City, Mexico",
-        "hobbies": ["Playing guitar", "Traveling"]
+        "hobbies": [
+            "Playing guitar",
+            "Traveling"
+        ],
+        "bio": "Carlos Mendez Loves playing guitar, and traveling."
     },
     {
         "id": 18,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Emily Wilson",
         "location": "Sydney, Australia",
-        "hobbies": ["Rock climbing", "Reading novels"]
+        "hobbies": [
+            "Rock climbing",
+            "Reading novels"
+        ],
+        "bio": "Emily Wilson Loves rock climbing, and reading novels."
     },
     {
         "id": 19,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Israel Yaya",
         "location": "Lagos, Nigeria",
-        "hobbies": ["Coding", "Football", "Gaming", "Learning"]
+        "hobbies": [
+            "Coding",
+            "Football",
+            "Gaming",
+            "Learning"
+        ],
+        "bio": "Israel Yaya Loves coding and football and gaming, and learning."
     },
     {
         "id": 20,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Jimeto Emmanuel",
         "location": "Lagos, Nigeria",
-        "hobbies": ["Farming", "Teacher", "Reading Bilble"]
+        "hobbies": [
+            "Farming",
+            "Teacher",
+            "Reading Bilble"
+        ],
+        "bio": "Jimeto Emmanuel Loves farming and teacher, and reading bilble."
     },
     {
         "id": 21,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Olivia Chen",
         "location": "Shanghai, China",
-        "hobbies": ["Calligraphy", "Tea ceremonies", "Badminton"]
+        "hobbies": [
+            "Calligraphy",
+            "Tea ceremonies",
+            "Badminton"
+        ],
+        "bio": "Olivia Chen Loves calligraphy and tea ceremonies, and badminton."
     },
     {
         "id": 22,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Mohammed Al-Rashid",
         "location": "Riyadh, Saudi Arabia",
-        "hobbies": ["Falconry", "Desert camping", "Poetry"]
+        "hobbies": [
+            "Falconry",
+            "Desert camping",
+            "Poetry"
+        ],
+        "bio": "Mohammed Al-Rashid Loves falconry and desert camping, and poetry."
     },
     {
         "id": 23,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Elena Petrova",
         "location": "Moscow, Russia",
-        "hobbies": ["Ballet", "Ice skating", "Chess"]
+        "hobbies": [
+            "Ballet",
+            "Ice skating",
+            "Chess"
+        ],
+        "bio": "Elena Petrova Loves ballet and ice skating, and chess."
     },
     {
         "id": 24,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Kwame Nkrumah",
         "location": "Accra, Ghana",
-        "hobbies": ["Drumming", "Soccer", "Storytelling"]
+        "hobbies": [
+            "Drumming",
+            "Soccer",
+            "Storytelling"
+        ],
+        "bio": "Kwame Nkrumah Loves drumming and soccer, and storytelling."
     },
     {
         "id": 25,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Isabella Garcia",
         "location": "Barcelona, Spain",
-        "hobbies": ["Flamenco dancing", "Wine tasting", "Beach volleyball"]
+        "hobbies": [
+            "Flamenco dancing",
+            "Wine tasting",
+            "Beach volleyball"
+        ],
+        "bio": "Isabella Garcia Loves flamenco dancing and wine tasting, and beach volleyball."
     },
     {
         "id": 26,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Tariq Khan",
         "location": "Islamabad, Pakistan",
-        "hobbies": ["Mountaineering", "Cricket", "Calligraphy"]
+        "hobbies": [
+            "Mountaineering",
+            "Cricket",
+            "Calligraphy"
+        ],
+        "bio": "Tariq Khan Loves mountaineering and cricket, and calligraphy."
     },
     {
         "id": 27,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Sophie Martin",
         "location": "Brussels, Belgium",
-        "hobbies": ["Chocolate making", "Comic books", "Cycling"]
+        "hobbies": [
+            "Chocolate making",
+            "Comic books",
+            "Cycling"
+        ],
+        "bio": "Sophie Martin Loves chocolate making and comic books, and cycling."
     },
     {
         "id": 28,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Jakob Schmidt",
         "location": "Vienna, Austria",
-        "hobbies": ["Opera", "Skiing", "Philosophy"]
+        "hobbies": [
+            "Opera",
+            "Skiing",
+            "Philosophy"
+        ],
+        "bio": "Jakob Schmidt Loves opera and skiing, and philosophy."
     },
     {
         "id": 29,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Fatima Zahra",
         "location": "Casablanca, Morocco",
-        "hobbies": ["Henna art", "Couscous cooking", "Arabic poetry"]
+        "hobbies": [
+            "Henna art",
+            "Couscous cooking",
+            "Arabic poetry"
+        ],
+        "bio": "Fatima Zahra Loves henna art and couscous cooking, and arabic poetry."
     },
     {
         "id": 30,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Lucas Silva",
         "location": "Rio de Janeiro, Brazil",
-        "hobbies": ["Capoeira", "Beach soccer", "Samba dancing"]
+        "hobbies": [
+            "Capoeira",
+            "Beach soccer",
+            "Samba dancing"
+        ],
+        "bio": "Lucas Silva Loves capoeira and beach soccer, and samba dancing."
     },
     {
         "id": 31,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Emma Johansson",
         "location": "Stockholm, Sweden",
-        "hobbies": ["Ice hockey", "Fika", "Nordic skiing"]
+        "hobbies": [
+            "Ice hockey",
+            "Fika",
+            "Nordic skiing"
+        ],
+        "bio": "Emma Johansson Loves ice hockey and fika, and nordic skiing."
     },
     {
         "id": 32,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Hassan Ibrahim",
         "location": "Cairo, Egypt",
-        "hobbies": ["Backgammon", "Nile cruising", "History"]
+        "hobbies": [
+            "Backgammon",
+            "Nile cruising",
+            "History"
+        ],
+        "bio": "Hassan Ibrahim Loves backgammon and nile cruising, and history."
     },
     {
         "id": 33,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Mei Ling",
         "location": "Taipei, Taiwan",
-        "hobbies": ["Night market exploring", "Bubble tea making", "Karaoke"]
+        "hobbies": [
+            "Night market exploring",
+            "Bubble tea making",
+            "Karaoke"
+        ],
+        "bio": "Mei Ling Loves night market exploring and bubble tea making, and karaoke."
     },
     {
         "id": 34,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Alejandro Ruiz",
         "location": "Madrid, Spain",
-        "hobbies": ["Bullfighting", "Guitar playing", "Paella cooking"]
+        "hobbies": [
+            "Bullfighting",
+            "Guitar playing",
+            "Paella cooking"
+        ],
+        "bio": "Alejandro Ruiz Loves bullfighting and guitar playing, and paella cooking."
     },
     {
         "id": 35,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Natalia Kowalczyk",
         "location": "Krakow, Poland",
-        "hobbies": ["Amber crafting", "Pierogi making", "Folk dancing"]
+        "hobbies": [
+            "Amber crafting",
+            "Pierogi making",
+            "Folk dancing"
+        ],
+        "bio": "Natalia Kowalczyk Loves amber crafting and pierogi making, and folk dancing."
     },
     {
         "id": 36,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Raj Patel",
         "location": "Nairobi, Kenya",
-        "hobbies": ["Safari guiding", "Marathon running", "Swahili poetry"]
+        "hobbies": [
+            "Safari guiding",
+            "Marathon running",
+            "Swahili poetry"
+        ],
+        "bio": "Raj Patel Loves safari guiding and marathon running, and swahili poetry."
     },
     {
         "id": 37,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Yusuf Demir",
         "location": "Istanbul, Turkey",
-        "hobbies": ["Backgammon", "Turkish coffee reading", "Whirling dervish"]
+        "hobbies": [
+            "Backgammon",
+            "Turkish coffee reading",
+            "Whirling dervish"
+        ],
+        "bio": "Yusuf Demir Loves backgammon and turkish coffee reading, and whirling dervish."
     },
     {
         "id": 38,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Ananya Desai",
         "location": "Bangalore, India",
-        "hobbies": ["Yoga", "Bollywood dancing", "Spice blending"]
+        "hobbies": [
+            "Yoga",
+            "Bollywood dancing",
+            "Spice blending"
+        ],
+        "bio": "Ananya Desai Loves yoga and bollywood dancing, and spice blending."
     },
     {
         "id": 39,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "David Kim",
         "location": "Seoul, South Korea",
-        "hobbies": ["Taekwondo", "K-pop dancing", "Kimchi making"]
+        "hobbies": [
+            "Taekwondo",
+            "K-pop dancing",
+            "Kimchi making"
+        ],
+        "bio": "David Kim Loves taekwondo and k-pop dancing, and kimchi making."
     },
     {
         "id": 40,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Giovanni Romano",
         "location": "Milan, Italy",
-        "hobbies": ["Opera singing", "Pasta making", "Vespa riding"]
+        "hobbies": [
+            "Opera singing",
+            "Pasta making",
+            "Vespa riding"
+        ],
+        "bio": "Giovanni Romano Loves opera singing and pasta making, and vespa riding."
     },
     {
         "id": 41,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Amina Diallo",
         "location": "Dakar, Senegal",
-        "hobbies": ["Djembe drumming", "Tie-dye", "Wrestling"]
+        "hobbies": [
+            "Djembe drumming",
+            "Tie-dye",
+            "Wrestling"
+        ],
+        "bio": "Amina Diallo Loves djembe drumming and tie-dye, and wrestling."
     },
     {
         "id": 42,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Viktor Ivanov",
         "location": "Sofia, Bulgaria",
-        "hobbies": ["Rose oil distilling", "Folk singing", "Hiking"]
+        "hobbies": [
+            "Rose oil distilling",
+            "Folk singing",
+            "Hiking"
+        ],
+        "bio": "Viktor Ivanov Loves rose oil distilling and folk singing, and hiking."
     },
     {
         "id": 43,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Leila Abbas",
         "location": "Beirut, Lebanon",
-        "hobbies": ["Arabic calligraphy", "Hookah smoking", "Debating"]
+        "hobbies": [
+            "Arabic calligraphy",
+            "Hookah smoking",
+            "Debating"
+        ],
+        "bio": "Leila Abbas Loves arabic calligraphy and hookah smoking, and debating."
     },
     {
         "id": 44,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Juan Martinez",
         "location": "Bogota, Colombia",
-        "hobbies": ["Salsa dancing", "Coffee farming", "Emerald collecting"]
+        "hobbies": [
+            "Salsa dancing",
+            "Coffee farming",
+            "Emerald collecting"
+        ],
+        "bio": "Juan Martinez Loves salsa dancing and coffee farming, and emerald collecting."
     },
     {
         "id": 45,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Ngozi Okonkwo",
         "location": "Enugu, Nigeria",
-        "hobbies": ["Adire making", "Palm wine tapping", "Storytelling"]
+        "hobbies": [
+            "Adire making",
+            "Palm wine tapping",
+            "Storytelling"
+        ],
+        "bio": "Ngozi Okonkwo Loves adire making and palm wine tapping, and storytelling."
     },
     {
         "id": 46,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Mikhail Petrov",
         "location": "St. Petersburg, Russia",
-        "hobbies": ["Vodka tasting", "Matryoshka painting", "Ice fishing"]
+        "hobbies": [
+            "Vodka tasting",
+            "Matryoshka painting",
+            "Ice fishing"
+        ],
+        "bio": "Mikhail Petrov Loves vodka tasting and matryoshka painting, and ice fishing."
     },
     {
         "id": 47,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Siti Aminah",
         "location": "Jakarta, Indonesia",
-        "hobbies": ["Batik making", "Wayang puppetry", "Rendang cooking"]
+        "hobbies": [
+            "Batik making",
+            "Wayang puppetry",
+            "Rendang cooking"
+        ],
+        "bio": "Siti Aminah Loves batik making and wayang puppetry, and rendang cooking."
     },
     {
         "id": 48,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Carl Jensen",
         "location": "Copenhagen, Denmark",
-        "hobbies": ["Lego building", "Nordic noir", "Bike commuting"]
+        "hobbies": [
+            "Lego building",
+            "Nordic noir",
+            "Bike commuting"
+        ],
+        "bio": "Carl Jensen Loves lego building and nordic noir, and bike commuting."
     },
     {
         "id": 49,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Fatoumata Keita",
         "location": "Bamako, Mali",
-        "hobbies": ["Kora playing", "Bogolan weaving", "Griot storytelling"]
+        "hobbies": [
+            "Kora playing",
+            "Bogolan weaving",
+            "Griot storytelling"
+        ],
+        "bio": "Fatoumata Keita Loves kora playing and bogolan weaving, and griot storytelling."
     },
     {
         "id": 50,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Lars Olsson",
         "location": "Oslo, Norway",
-        "hobbies": ["Fjord kayaking", "Lutefisk eating", "Northern lights chasing"]
+        "hobbies": [
+            "Fjord kayaking",
+            "Lutefisk eating",
+            "Northern lights chasing"
+        ],
+        "bio": "Lars Olsson Loves fjord kayaking and lutefisk eating, and northern lights chasing."
     },
     {
         "id": 51,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Ying Yue",
         "location": "Hong Kong, China",
-        "hobbies": ["Mahjong", "Yum cha", "Feng shui"]
+        "hobbies": [
+            "Mahjong",
+            "Yum cha",
+            "Feng shui"
+        ],
+        "bio": "Ying Yue Loves mahjong and yum cha, and feng shui."
     },
     {
         "id": 52,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Javier Morales",
         "location": "Santiago, Chile",
-        "hobbies": ["Wine making", "Andean hiking", "Cueca dancing"]
+        "hobbies": [
+            "Wine making",
+            "Andean hiking",
+            "Cueca dancing"
+        ],
+        "bio": "Javier Morales Loves wine making and andean hiking, and cueca dancing."
     },
     {
         "id": 53,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Aya Nakamura",
         "location": "Tokyo, Japan",
-        "hobbies": ["Anime drawing", "Karaoke", "Tea ceremony"]
+        "hobbies": [
+            "Anime drawing",
+            "Karaoke",
+            "Tea ceremony"
+        ],
+        "bio": "Aya Nakamura Loves anime drawing and karaoke, and tea ceremony."
     },
     {
         "id": 54,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Omar Sharif",
         "location": "Alexandria, Egypt",
-        "hobbies": ["Oud playing", "Mediterranean cooking", "Ancient history"]
+        "hobbies": [
+            "Oud playing",
+            "Mediterranean cooking",
+            "Ancient history"
+        ],
+        "bio": "Omar Sharif Loves oud playing and mediterranean cooking, and ancient history."
     },
     {
         "id": 55,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Ingrid Bergman",
         "location": "Gothenburg, Sweden",
-        "hobbies": ["Pickling herring", "Sauna", "Folk art"]
+        "hobbies": [
+            "Pickling herring",
+            "Sauna",
+            "Folk art"
+        ],
+        "bio": "Ingrid Bergman Loves pickling herring and sauna, and folk art."
     },
     {
         "id": 56,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Diego Costa",
         "location": "Lisbon, Portugal",
-        "hobbies": ["Fado singing", "Surfing", "Cork crafting"]
+        "hobbies": [
+            "Fado singing",
+            "Surfing",
+            "Cork crafting"
+        ],
+        "bio": "Diego Costa Loves fado singing and surfing, and cork crafting."
     },
     {
         "id": 57,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Nadia Petrova",
         "location": "Kyiv, Ukraine",
-        "hobbies": ["Pysanky egg decorating", "Borscht cooking", "Folk dancing"]
+        "hobbies": [
+            "Pysanky egg decorating",
+            "Borscht cooking",
+            "Folk dancing"
+        ],
+        "bio": "Nadia Petrova Loves pysanky egg decorating and borscht cooking, and folk dancing."
     },
     {
         "id": 58,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Rahul Sharma",
         "location": "Hyderabad, India",
-        "hobbies": ["Biryani cooking", "Cricket", "Yoga"]
+        "hobbies": [
+            "Biryani cooking",
+            "Cricket",
+            "Yoga"
+        ],
+        "bio": "Rahul Sharma Loves biryani cooking and cricket, and yoga."
     },
     {
         "id": 59,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Zara Mohammed",
         "location": "Lahore, Pakistan",
-        "hobbies": ["Henna art", "Qawwali music", "Spice blending"]
+        "hobbies": [
+            "Henna art",
+            "Qawwali music",
+            "Spice blending"
+        ],
+        "bio": "Zara Mohammed Loves henna art and qawwali music, and spice blending."
     },
     {
         "id": 60,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Luca Bianchi",
         "location": "Venice, Italy",
-        "hobbies": ["Gondola rowing", "Glass blowing", "Opera"]
+        "hobbies": [
+            "Gondola rowing",
+            "Glass blowing",
+            "Opera"
+        ],
+        "bio": "Luca Bianchi Loves gondola rowing and glass blowing, and opera."
     },
     {
         "id": 61,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Adeola Adebayo",
         "location": "Ibadan, Nigeria",
-        "hobbies": ["Adire making", "Yoruba poetry", "Palm wine"]
+        "hobbies": [
+            "Adire making",
+            "Yoruba poetry",
+            "Palm wine"
+        ],
+        "bio": "Adeola Adebayo Loves adire making and yoruba poetry, and palm wine."
     },
     {
         "id": 62,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Nikolai Volkoff",
         "location": "Minsk, Belarus",
-        "hobbies": ["Potato farming", "Vodka distilling", "Ice hockey"]
+        "hobbies": [
+            "Potato farming",
+            "Vodka distilling",
+            "Ice hockey"
+        ],
+        "bio": "Nikolai Volkoff Loves potato farming and vodka distilling, and ice hockey."
     },
     {
         "id": 63,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Mei Wong",
         "location": "Singapore",
-        "hobbies": ["Hawker food tasting", "Orchid growing", "Lion dancing"]
+        "hobbies": [
+            "Hawker food tasting",
+            "Orchid growing",
+            "Lion dancing"
+        ],
+        "bio": "Mei Wong Loves hawker food tasting and orchid growing, and lion dancing."
     },
     {
         "id": 64,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Ricardo Santos",
-        "location": "São Paulo, Brazil",
-        "hobbies": ["Jiu-jitsu", "Samba", "BBQ"]
+        "location": "S\u00e3o Paulo, Brazil",
+        "hobbies": [
+            "Jiu-jitsu",
+            "Samba",
+            "BBQ"
+        ],
+        "bio": "Ricardo Santos Loves jiu-jitsu and samba, and bbq."
     },
     {
         "id": 65,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Anastasia Popova",
         "location": "Athens, Greece",
-        "hobbies": ["Olive oil making", "Bouzouki playing", "Island hopping"]
+        "hobbies": [
+            "Olive oil making",
+            "Bouzouki playing",
+            "Island hopping"
+        ],
+        "bio": "Anastasia Popova Loves olive oil making and bouzouki playing, and island hopping."
     },
     {
         "id": 66,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Kofi Mensah",
         "location": "Kumasi, Ghana",
-        "hobbies": ["Kente weaving", "Highlife music", "Palm wine"]
+        "hobbies": [
+            "Kente weaving",
+            "Highlife music",
+            "Palm wine"
+        ],
+        "bio": "Kofi Mensah Loves kente weaving and highlife music, and palm wine."
     },
     {
         "id": 67,
-        "ProfilePic": "",
+        "ProfilePic": null,
         "FullName": "Elena Vasquez",
         "location": "Buenos Aires, Argentina",
-        "hobbies": ["Tango dancing", "Mate drinking", "Asado grilling"]
+        "hobbies": [
+            "Tango dancing",
+            "Mate drinking",
+            "Asado grilling"
+        ],
+        "bio": "Elena Vasquez Loves tango dancing and mate drinking, and asado grilling."
     }
 ]

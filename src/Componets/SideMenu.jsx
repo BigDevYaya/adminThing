@@ -26,7 +26,7 @@ const SideMenu = () => {
             }`}
             onClick={() => setClickedIndex(i)}
           >
-            {act}
+            <a>{act}</a>
           </li>
         ))}
       </ul>

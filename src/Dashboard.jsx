@@ -11,16 +11,14 @@ const Dashboard = () => {
     function filterItems(items, query) {
         query = query.trim().toLowerCase();
         return items.filter(item =>
-          item.FullName.split(' ').some(word =>
-            word.toLowerCase().includes(query)
+          item.FullName.toLowerCase().includes(query)
           )
-        );
       }
     
     const result = filterItems(users, search)
   return (
     <div>
-        <Header value={search} onChange={(e) => setSearch(e.target.value)} />
+        <Header value={search} onChange={(e) => setSearch(e.target.value)}/>
         <main className='xl:mx-28 xl:my-10 mx-3 my-2'>
             <ProfileCard profiles={result} />
         </main>

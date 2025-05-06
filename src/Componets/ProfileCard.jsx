@@ -1,4 +1,6 @@
 import React from 'react'
+import { Link } from 'react-router'
+import UserDetails from '../Pages/UserDetails'
 
 // const users = [
 //     {
@@ -134,8 +136,8 @@ const ProfileCard = ({profiles}) => {
     <section className='grid gap-3 cursor-default lg:grid-cols-3 md:grid-cols-2 grid-cols-1 mx-7 my-3'>
         {
             profiles.map(use => (
-                <div key={use.id} className='bg-[#fbfcff] px-7 py-4 rounded-xl flex md:flex-row flex-col items-center gap-7 hover:border hover:border-[#bfc8e5] hover:shadow-xl transition-all md:max-h-39 md:max-w-90'>
-                    <img src={use.ProfilePic} alt="" className={use.ProfilePic ? 'md:w-20 md:h-20 md:rounded-full w-50 h-50' : ''} />
+                <Link key={use.id} to={`/${use.id}`} className='bg-[#fbfcff] px-7 py-4 rounded-xl flex md:flex-row flex-col items-center gap-7 hover:border hover:border-[#bfc8e5] hover:shadow-xl transition-all duration-100 ease-in-out md:max-h-39 md:max-w-90'>
+                    <img src={use.ProfilePic} alt="" className={use.ProfilePic ? 'md:w-20 md:h-20 md:rounded-full w-50 h-50  rounded-2xl' : ''} />
                     <div className='flex flex-col items-start gap-2'>
                         <h2 className='text-[#151b32] font-medium'>{use.FullName}</h2>
                         <p className='text-[#151b32] font-light text-sm'>{use.location}</p>
@@ -147,7 +149,7 @@ const ProfileCard = ({profiles}) => {
                             }
                         </ul>
                     </div>
-                </div>
+                </Link>
             ))
         }
 
